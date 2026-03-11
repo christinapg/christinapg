@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there, I'm Christina👋
 
-<!--
-**christinapg/christinapg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 About Me
+I am a student at the **Department of Electrical and Computer Engineering (ECE)** at the **Aristotle University of Thessaloniki (AUTh)**. 
 
-Here are some ideas to get you started:
+This profile serves as a digital portfolio of the assignments and projects implemented during my academic years, focusing on software engineering, signal processing, and networking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📂 Key University Projects
+
+*   **CN2_AUTH_ChatAndVoIP**  
+    *Course: Computer Networks II* | **Java**  
+    Development of a Chat and Voice over IP application.
+
+*   **digital-image-processing**  
+    *Course: Digital Image Processing* | **Python**  
+    Implementation of algorithms for image analysis and enhancement.
+
+*   **multimedia_systems_AACproject**  
+    *Course: Multimedia Systems* | **Python**  
+    Project related to the Advanced Audio Coding (AAC) standard.
+
+*   **optimization-techniques**  
+    *Course: Optimization Techniques* | **MATLAB**  
+    Numerical methods and algorithms for solving optimization problems.
+
+---
+
+### 🛠 Technical Toolkit
+*   **Languages:** Java, Python, MATLAB, C/C++
+
+### 📫 Connect with me
+*   **LinkedIn:** www.linkedin.com/in/christina-papadopoulou-641707397
+*   **Email:** christinapg@ece.auth.gr
+
+---
+*“Engineering student at AUTh | Turning theory into code.”*
+
+
