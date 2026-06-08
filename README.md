@@ -30,11 +30,3 @@ This profile serves as a digital portfolio of the assignments and projects imple
 ### 🛠 Technical Toolkit
 *   **Languages:** Java, Python, MATLAB, C/C++
 
-### 📫 Connect with me
-*   **LinkedIn:** www.linkedin.com/in/christina-papadopoulou-641707397
-*   **Email:** christinapg@ece.auth.gr
-
----
-*“Engineering student at AUTh | Turning theory into code.”*
-
-
